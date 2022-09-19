@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-19T12:59:13 IST" name="Default suite" finished-at="2022-09-19T12:59:59 IST" duration-ms="45275">
+    <groups>
+    </groups>
+    <test started-at="2022-09-19T12:59:13 IST" name="Default test" finished-at="2022-09-19T12:59:59 IST" duration-ms="45275">
+      <class name="home">
+        <test-method signature="homepage1()[pri:0, instance:home@4ac3c60d]" started-at="2022-09-19T12:59:13 IST" name="homepage1" finished-at="2022-09-19T12:59:21 IST" duration-ms="7372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage1 -->
+        <test-method signature="homepage2()[pri:0, instance:home@4ac3c60d]" started-at="2022-09-19T12:59:21 IST" name="homepage2" finished-at="2022-09-19T12:59:26 IST" duration-ms="5446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage2 -->
+        <test-method signature="homepage3()[pri:0, instance:home@4ac3c60d]" started-at="2022-09-19T12:59:26 IST" name="homepage3" finished-at="2022-09-19T12:59:32 IST" duration-ms="5380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage3 -->
+        <test-method signature="homepage4()[pri:0, instance:home@4ac3c60d]" started-at="2022-09-19T12:59:32 IST" name="homepage4" finished-at="2022-09-19T12:59:37 IST" duration-ms="5346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage4 -->
+        <test-method signature="homepage5()[pri:0, instance:home@4ac3c60d]" started-at="2022-09-19T12:59:37 IST" name="homepage5" finished-at="2022-09-19T12:59:42 IST" duration-ms="5498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage5 -->
+        <test-method signature="homepage6()[pri:0, instance:home@4ac3c60d]" started-at="2022-09-19T12:59:42 IST" name="homepage6" finished-at="2022-09-19T12:59:48 IST" duration-ms="5322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage6 -->
+        <test-method signature="homepage7()[pri:0, instance:home@4ac3c60d]" started-at="2022-09-19T12:59:48 IST" name="homepage7" finished-at="2022-09-19T12:59:53 IST" duration-ms="5239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage7 -->
+        <test-method signature="homepage8()[pri:0, instance:home@4ac3c60d]" started-at="2022-09-19T12:59:53 IST" name="homepage8" finished-at="2022-09-19T12:59:59 IST" duration-ms="5596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage8 -->
+      </class> <!-- home -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
